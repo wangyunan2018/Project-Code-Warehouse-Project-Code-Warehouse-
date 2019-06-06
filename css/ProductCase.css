@@ -1,0 +1,20 @@
+#section_1{width:100%;height:578px;background: url(../image/product-case_bg1.png) no-repeat;display: table;text-align:center;}
+#section_1 hgroup{display: table-cell;vertical-align: middle;}
+#section_1 h2{font-size:54px;line-height:64px;color:#ff881f;}
+
+/*产品案例页公共样式开始*/
+#section_2,#section_3,#section_4,#section_5,#section_6,#section_7{width:100%;height:460px;overflow: hidden;position: relative;}
+#section_2,#section_4,#section_6{background: #e9e3c9;}
+#section_3,#section_5,#section_7{background: #ececec;}
+#box1 img,#box2 img,#box3 img,#box4 img,#box5 img,#box6 img{height:330px;}
+.box_1{width:1280px;height:330px;position: absolute;top:0;left:0;right:0;bottom:0;margin:auto;overflow:auto;}
+#box1 img{float:left;margin-right:20px;}
+#box2 img{float: right;margin-left:20px;}
+#box3 img{float:left;margin-right:20px;}
+#box4 img{float: right;margin-left:20px;}
+#box5 img{float:left;margin-right:20px;}
+#box6 img{float: right;margin-left:20px;}
+.div1 p{font-size:16px;line-height:35px;color:#2f363e;}
+.box_1 h2{font-size:38px;line-height:40px;}
+.box_1 .span1{width:202px;border:2px solid black;display: inline-block;padding:0;margin:0;}
+/*产品案例页公共样式结束*/

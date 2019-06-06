@@ -1,0 +1,21 @@
+#section_1{width:100%;height:617px;overflow: hidden;position:relative;}
+#section_1 section{position: absolute;left:475px;top:154px;}
+#section_1 h1{font-size:70px;line-height: 80px;color:white;font-weight: normal;}
+#section_1 p{font-size:18px;line-height: 36px;color:white;}
+
+#section_2{width:100%;height:432px;background: #424242;overflow: hidden;}
+#section_2 section{width:1377px;height:342px;margin:0 auto;}
+#section_2 section img{float:left;}
+#section_2 h2{height:64px;padding-top:26px;font-size: 40px;line-height: 50px;font-weight:normal;color:#ff881f;text-align:center;}
+
+#section_3{width:100%;height: 573px;overflow: hidden;}
+#section_3 h3{font-size:40px;height:50px;color:#ff881f;text-align:center;margin-top:20px;}
+
+#section_4{width:100%;height:544px;background: #2f363e;position: relative;overflow: hidden;}
+#section_4 section{position: absolute;left: 667px;top:137px;text-align:center;}
+#section_4 section h3{font-size:70px;line-height: 80px;color:#ff881f;margin-bottom:7px;}
+#section_4 section p{font-size:18px;line-height: 36px;color:white;}
+
+#section_5{width:100%;height:458px;background: white;position:relative;overflow: hidden;}
+#section_5 hgroup{position: absolute;left:851px;top:95px;text-align:center;}
+#section_5 hgroup h3{font-size: 54px;line-height: 64px;color:#ff881f;}
